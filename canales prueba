@@ -14,3 +14,5 @@ https://tls.cdnz.cl/rewindtv/rewindtv/chunklist_w672603784.m3u8
 
 #EXTINF:-1 tvg-id="112843" tvg-name="XTV Music" tvg-logo="https://lh3.googleusercontent.com/-AQn8CYeOAK8/X38KO1HXohI/AAAAAAAA6P8/aEkNrz3M0qwWAeklOdf2svEf0HV7bBjyACK8BGAsYHg/s0/2020-10-08.png", XTV Music
 https://tls.cdnz.cl:443/xtvmusic/xtvmusic/playlist.m3u8
+#EXTINF:-1,Entretenimiento:Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
