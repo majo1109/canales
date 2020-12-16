@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:0 tvg-logo="https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png" group-title="MUSICA", Top Latino
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/chunklist_w2116163099.m3u8
+
+#EXTINF:0 tvg-logo="https://www.telemusica.tv/images/logotelemusicahit.png" group-title="MUSICA", Telemúsica
+https://5f2eaf2aa4061.streamlock.net/live/smil:telemusica_web.smil/chunklist_w436616169_b1048000_slES.m3u8
+
+#EXTINF:0 tvg-logo="http://cmmusica.com.ar/images/logo.png" group-title="MUSICA", CM Música
+http://g4.vxral-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
+
+#EXTINF:0 tvg-logo="http://www.m3u.cl/logo/101700_Rewind_TV.png" group-title="MUSICA", Rewind TV
+https://tls.cdnz.cl/rewindtv/rewindtv/chunklist_w672603784.m3u8
+
+#EXTINF:-1 tvg-id="112843" tvg-name="XTV Music" tvg-logo="https://lh3.googleusercontent.com/-AQn8CYeOAK8/X38KO1HXohI/AAAAAAAA6P8/aEkNrz3M0qwWAeklOdf2svEf0HV7bBjyACK8BGAsYHg/s0/2020-10-08.png", XTV Music
+https://tls.cdnz.cl:443/xtvmusic/xtvmusic/playlist.m3u8
